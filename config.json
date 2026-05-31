@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "ordervync",
+        "uuid": 7785968,
+        "checksum": "cadbua"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "production"
+    }
+}
